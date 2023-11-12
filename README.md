@@ -9,4 +9,4 @@ Here's a bit about me:
 - 💞️ I’m looking to work on exciting use cases of Large Language Models and prompt engineering. 
 - 📫 You can reach out to me at anirudhcsuf@gmail.com. Feel free to contact me for collaborations, questions, or just a friendly chat about how LLMs are changing the future of Data Scientist jobs!
 
-Happy AI-ing! 🚀
+Happy AI-ing! 🚀🚀
