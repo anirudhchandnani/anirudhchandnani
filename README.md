@@ -1,6 +1,6 @@
 # Hi, I'm Anirudh Chandnani
 
-Senior Data Scientist working on agentic AI, reinforcement learning, and interpretability. I build modular, scalable end to end systems and study how the models inside them actually behave.
+Staff AI Engineer at Synopsys working on agentic AI, reinforcement learning, and interpretability. I build modular, scalable end to end systems and study how the models inside them actually behave.
 
 ## Focus areas
 - Reinforcement learning for language and tool-using agents (REINFORCE, PPO, GRPO)
