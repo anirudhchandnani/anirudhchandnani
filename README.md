@@ -1,5 +1,14 @@
-# 👋 Hi, I'm Anirudh Chandnani
+# Hi, I'm Anirudh Chandnani
 
-Sr. Data Scientist | Azure Foundry | RAG | Python C# SQL | Async APIs | MCP | A2A | Productionizing modular and scalable end to end Agentic AI applications
+Senior Data Scientist working on agentic AI, reinforcement learning, and interpretability. I build modular, scalable end to end systems and study how the models inside them actually behave.
 
-Welcome to my GitHub profile!
+## Focus areas
+- Reinforcement learning for language and tool-using agents (REINFORCE, PPO, GRPO)
+- Mechanistic interpretability: linear probes, sparse autoencoders, activation steering
+- Applied AI: RAG, MCP and agent tooling, finetuning, evaluation harnesses
+
+## Featured work
+- [tool-agent-rl](https://github.com/anirudhchandnani/tool-agent-rl) - a multi-step tool-using agent with a from-scratch transformer policy trained by REINFORCE, PPO, and GRPO, with interpretability probes and a Streamlit viewer.
+
+## Stack
+Python, C#, SQL, PyTorch, Azure AI Foundry, async APIs, MCP, A2A
